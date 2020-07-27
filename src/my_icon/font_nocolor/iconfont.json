@@ -1,0 +1,44 @@
+{
+  "id": "1967771",
+  "name": "哈哈",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8556904",
+      "name": "global",
+      "font_class": "global",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "10377390",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12795563",
+      "name": "blame",
+      "font_class": "blame",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "13363815",
+      "name": "search",
+      "font_class": "search-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "13405113",
+      "name": "home",
+      "font_class": "shouye",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}

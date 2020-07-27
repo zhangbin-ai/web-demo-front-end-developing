@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8556904",
+      "name": "global",
+      "font_class": "global",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "10377390",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "12795563",
+      "name": "blame",
+      "font_class": "blame",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "13363815",
+      "name": "search",
+      "font_class": "search-copy",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "14452538",
+      "name": "home",
+      "font_class": "shouye",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    }
+  ]
+}
