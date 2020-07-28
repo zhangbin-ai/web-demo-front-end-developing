@@ -24,11 +24,13 @@ export default {
     if(icon && title){
       vnodes.push(
         <div class="sidebar-item">
-          <my-icon iconClass={icon} color="#00ff00" size="23px"/>
+          <svg-icon icon-class={icon}/>
           <span slot='title'>{(title)}</span>
         </div>
       )
     }
+
+    // <my-icon iconClass={icon}  size="20px"/>
     // if (icon) {
     //   // if (icon.includes('el-icon')) {
     //   //   vnodes.push(<i class={[icon, 'sub-el-icon']} />)
@@ -53,11 +55,15 @@ export default {
 //   height: 2em;
 // }
 .sidebar-item{
-  line-height: 50px;
-  .my-icon{
-    margin-top:12px;
+  line-height: 60px;
+  .svg-icon{
+    // color:aqua;
+    // margin-top:20px;
+    // margin-right:3px;
+    // padding-left:3px;
   }
   span{
+    margin-left:-5px;
     float: right;
   }
 }

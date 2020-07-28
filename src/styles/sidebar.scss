@@ -72,7 +72,9 @@
     .submenu-title-noDropdown,
     .el-submenu__title {
       &:hover {
-        background-color: $menuHover !important;
+        // background-color: $menuHover !important;
+        color : lightblue;
+        background-color: white;
       }
     }
 
